@@ -1,5 +1,6 @@
-Loja de Conveniência
-Simulação de uma loja de conveniência em Java, com foco em Programação Orientada a Objetos (POO).
+Loja de Conveniência:
+
+       Simulação de uma loja de conveniência em Java, com foco em Programação Orientada a Objetos (POO).
 
 Funcionalidades
 Comprar Produto: Seleção e compra de produtos.
