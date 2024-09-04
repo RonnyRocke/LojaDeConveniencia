@@ -26,5 +26,11 @@ Execução
     Compile com javac.
     Execute a classe Main com java Main.
 
+
+DIAGRAMA:
+
+![DIAGRAMA](https://github.com/user-attachments/assets/c69fc896-7507-4633-8a91-0a8973ac78f0)
+
+
 Contribuições
 Contribuições são bem-vindas via issues e pull requests.
